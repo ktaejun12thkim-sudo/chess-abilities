@@ -1,0 +1,2 @@
+[tool.railway] 
+start = "python server.py" 
