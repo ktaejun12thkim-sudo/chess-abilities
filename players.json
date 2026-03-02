@@ -1,0 +1,20 @@
+{
+  "ktj2012": {
+    "nickname": "KTJ2012",
+    "password": "e12bef1f09f5e07fb1daa5dd23372d62dd9099bf82162844c9f49801027a7150",
+    "rating": 1200,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "created": 1772153740.80788
+  },
+  "ktj2013": {
+    "nickname": "ktj2013",
+    "password": "e12bef1f09f5e07fb1daa5dd23372d62dd9099bf82162844c9f49801027a7150",
+    "rating": 1200,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "created": 1772282122.9901924
+  }
+}

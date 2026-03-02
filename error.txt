@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\TJ\main.py", line 1896, in <module>
+    ret = renderer.run()
+  File "C:\Users\user\Desktop\TJ\main.py", line 1699, in run
+    self.draw_blockades()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\user\Desktop\TJ\main.py", line 413, in draw_blockades
+    if b["row"] is not None:
+       ~^^^^^^^
+KeyError: 'row'
